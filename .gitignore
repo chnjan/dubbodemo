@@ -1,4 +1,6 @@
 /target/
-.settings/
-/.classpath
-/.project
+target/
+.settings
+.classpath
+.project
+# 以/开头表示当前根文件夹下的文件
